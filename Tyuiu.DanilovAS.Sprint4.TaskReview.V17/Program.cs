@@ -13,7 +13,6 @@ namespace Tyuiu.DanilovAS.Sprint4.TaskReview.V17
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-
             Console.Title = "Спринт(Review)#4 | Выполнил: Данилов А. С. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт(Review)#4                                                        *");

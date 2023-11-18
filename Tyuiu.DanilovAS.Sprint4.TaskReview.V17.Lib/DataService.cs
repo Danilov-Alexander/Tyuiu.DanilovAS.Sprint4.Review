@@ -14,7 +14,6 @@ namespace Tyuiu.DanilovAS.Sprint4.TaskReview.V17.Lib
         {
 
             int[,] array = new int[n, m];
-
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < m; j++)

@@ -12,7 +12,6 @@ namespace Tyuiu.DanilovAS.Sprint4.TaskReview.V17.Test
         public void ValidCalc()
         {
             DataService ds = new DataService();
-            //"753159864"
             int rows = 3;
             int columns = 3;
             int[,] array = new int[rows, columns];
